@@ -17,3 +17,6 @@ Lasso Regression
 ElasticNet Regression
 
 Bayesian Linear Regression
+
+
+calc: MSE,ABSOLUTE ERROR,
